@@ -1,0 +1,14 @@
+contriction Hammer(){
+
+}
+
+var options={
+'density':2,
+'friction':1.0,
+'restitution':0.5
+}
+
+fill (yellow)
+
+
+
